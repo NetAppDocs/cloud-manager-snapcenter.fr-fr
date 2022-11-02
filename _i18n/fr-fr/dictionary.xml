@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="doc"></block>
+  <block id="a7aed6b9de0d7fa9719e4d634c1d806f" category="sidebar">Documentation du service SnapCenter</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Commencez</block>
+  <block id="fbfdf1d6957e93185289dd5c3d913313" category="sidebar">Découvrez le service SnapCenter</block>
+  <block id="411eaaaa405899304e54dce3363a2baf" category="sidebar">Démarrage rapide</block>
+  <block id="0d2207ddfa0465f7fdc075a16c7103c2" category="sidebar">Conditions préalables pour créer un connecteur et activer le service SnapCenter</block>
+  <block id="a266f6237722f9b5a4130ef692c55210" category="sidebar">Créez un connecteur dans Azure pour le service SnapCenter</block>
+  <block id="be2ee59845a89af945b9900a0c3b1f67" category="sidebar">Activez le service SnapCenter pour Azure NetApp Files</block>
+  <block id="3fd009a3fde81c4cf384e53c8112c76a" category="sidebar">Installez le client HDBSQL</block>
+  <block id="fc6193376b55c5eef2823c76b83a1607" category="sidebar">Utilisez le service SnapCenter pour protéger les systèmes SAP HANA</block>
+  <block id="a26976a86fc4f35537d8f64e1ac8a5b6" category="sidebar">Ajout de systèmes SAP HANA</block>
+  <block id="00c3a521f200f15289d4d2520914f61d" category="sidebar">Sauvegarde des systèmes SAP HANA</block>
+  <block id="561178b3be2b611f86295fc5c91ca21c" category="sidebar">Restaurez les systèmes SAP HANA</block>
+  <block id="41b4e5d916e26c9e0d32ceff6fd589ed" category="sidebar">Gérez les opérations</block>
+  <block id="7a4e5e5bc542eae2d10e3506f839f2ae" category="sidebar">Résoudre les problèmes</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Connaissances et support</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="sidebar">S'inscrire pour obtenir de l'aide</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="sidebar">Obtenez de l'aide</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="sidebar">Mentions légales</block>
+  <block id="e096a5e1d4ec29b8011f6c6d15b90ee2" category="sidebar">Nouveautés</block>
+  <block id="2ea7b0fee984c9c7fcabd32058eb86ac" category="sidebar">Activez le service SnapCenter</block>
+  <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">Prérequis</block>
+  <block id="94ee7072c2750da1997438a715efb7d4" category="sidebar">Créer un connecteur</block>
+  <block id="676f733b0741167535adf605d514137c" category="sidebar">Protection des systèmes SAP HANA</block>
+  <block id="e0e7dee929fec9739011d2377147cb1b" category="sidebar">Soutien aux connaissances</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Communauté sur les blogs</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Communauté NetApp</block>
+  <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Blog Cloud Central</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Webinaires sur le cloud</block>
+  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">Toute la documentation de Cloud Manager</block>
+</blocks>

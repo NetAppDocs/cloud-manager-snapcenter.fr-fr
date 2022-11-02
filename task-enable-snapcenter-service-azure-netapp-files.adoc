@@ -1,0 +1,8 @@
+---
+permalink: task-enable-snapcenter-service-azure-netapp-files.html 
+redirect: cloud-manager-family/index.html 
+---
+= 
+:allow-uri-read: 
+
+

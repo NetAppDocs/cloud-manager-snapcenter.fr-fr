@@ -1,0 +1,8 @@
+---
+permalink: legal-notices.html 
+redirect: cloud-manager-family/index.html 
+---
+= 
+:allow-uri-read: 
+
+

@@ -1,0 +1,8 @@
+---
+permalink: concept-overview-architecture-limitation-functionalities-snapcenter-service.html 
+redirect: cloud-manager-family/index.html 
+---
+= 
+:allow-uri-read: 
+
+

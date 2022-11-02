@@ -1,0 +1,8 @@
+---
+permalink: whats-new.html 
+redirect: cloud-manager-family/index.html 
+---
+= 
+:allow-uri-read: 
+
+
